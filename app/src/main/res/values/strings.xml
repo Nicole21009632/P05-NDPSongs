@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">P05-NDPSongs</string>
+    <string name="song_id">Song ID</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="tvStar">Star</string>
+    <string name="tvSingers">Singers</string>
+    <string name="tvYear">Year</string>
+    <string name="_5">5</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="song_title">Song Title</string>
+</resources>
